@@ -1,0 +1,1 @@
+﻿target_include_directories (Project_Yehudit_Touitou_Michal_Gigi PRIVATE ${CMAKE_CURRENT_LIST_DIR})

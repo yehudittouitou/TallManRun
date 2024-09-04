@@ -1,0 +1,46 @@
+const int WELCOME = 0;                   //backgroundOpen.png
+const int PLAYBUTTON = 1;                //playButton.png
+const int EXITBUTTON = 2;                //exitButton.png
+const int BACKGROUNDLEVELS = 3;          //backgroundLevels.jpg
+const int SKY = 4;                       //sky.png
+const int POOL = 5;                      //pool.jpg
+const int MAGNET = 6;                    //magnet.png
+const int HEART = 7;                     //heart.png
+const int LINES = 8;                     //lines.png
+const int FENCE =9;                      //fance.png
+const int CLOUD = 10;                    //cloud.png
+const int BOMB = 11;                     //bomb.png
+const int BOAT = 12;                     //boat.png
+const int HELPBUTTON = 13;               //helpButton.png
+const int GOBACKBUTTON = 14;             //GoBackButton.png
+
+const int PLAYER0 = 15;                   //player0.png
+const int PLAYER1 = 16;                   //player1.png
+const int PLAYER2 = 17;                   //player2.png
+const int PLAYER3 = 18;                   //player3.png
+const int PLAYER4 = 19;                   //player4.png
+const int PLAYER5 = 20;                   //player5.png
+const int PLAYER6 = 21;                   //player6.png
+const int PLAYER7 = 22;                   //player7.png
+const int PLAYER8 = 23;                   //player8.png
+const int PLAYER9 = 24;                   //player9.png
+
+const int SPACESHIP = 25;                     //spaceShip.png
+const int COIN = 26;                     //coin.png
+const int LESSSIZE = 27;                 //lessSize.png
+const int ADDSIZE = 28;                  //addSize.png
+const int SUPERPOWER = 29;               //superpower.png
+const int COININFO = 30;                 //coinInfo.png
+const int HEARTINFO = 31;                //heartInfo.png
+const int PLAYERJUMP = 32;               //playerJump.png
+const int BUTTON = 33;                   //button.png
+const int FAILPIC = 34;                  //fail.png
+const int SIT = 35;                      //sitOnBoat.png
+const int INPOOL = 36;                   //inPool.png
+const int FINISH = 37;                   //finish.png
+const int MAGNETPLAYER = 38;             //magnetPlayer.png
+const int SUPERPOWERPLAYER = 39;         //superpowerPlayer.png
+const int INSTRUCTION = 40;              //instruction.png
+const int WELCOMEBOY = 41;               //welcomeBoy.png
+//----PICTURES AMOUNT------
+const int NUMOFPIC = 42;
